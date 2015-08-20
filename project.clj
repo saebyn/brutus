@@ -1,4 +1,4 @@
-(defproject brutus "0.1.0-SNAPSHOT"
+(defproject brutus "0.1.1-SNAPSHOT"
   :description "A simple and lightweight Entity Component System library for writing games with Clojurescript"
   :url "https://www.github.com/saebyn/brutus"
   :license {:name "Eclipse Public License"
